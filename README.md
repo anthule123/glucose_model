@@ -14,7 +14,7 @@ Kiến thức toán học sử dụng:
      4. điều khiển
      5. pt tích phân, ma trận
      6. thuật toán
-     
+Update 15/8/2022.
 Hiện ở Việt Nam chủ yếu xử lí bệnh tiểu đường tuýp 1 bằng cách tiêm insulin hằng ngày cho
 bệnh nhân. Hạn chế của phương pháp này là sự kiểm soát đường huyết chưa thực sự linh hoạt.
 Phương pháp hiệu quả nhất hiện nay là mô hình tuyến tụy nhân tạo:
