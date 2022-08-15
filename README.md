@@ -17,7 +17,8 @@ Kiến thức toán học sử dụng:
 Update 15/8/2022.
 Hiện ở Việt Nam chủ yếu xử lí bệnh tiểu đường tuýp 1 bằng cách tiêm insulin hằng ngày cho
 bệnh nhân. Hạn chế của phương pháp này là sự kiểm soát đường huyết chưa thực sự linh hoạt.
-Phương pháp hiệu quả nhất hiện nay là mô hình tuyến tụy nhân tạo:
+
+Phương pháp hiệu quả nhất hiện nay trên thế giới là mô hình tuyến tụy nhân tạo:
 gồm 1 thiết bị cảm biến glucose (CGM) gắn dưới bắp tay, máy bơm insulin gắn vào mao mạch 
 trên bụng và 1 phần mềm - thuật toán để tính toán lượng insulin bơm vào.
 
